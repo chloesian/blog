@@ -7,9 +7,7 @@ url: "https://chlosesian.github.io" # the base hostname & protocol for your site
 author:
   name: '시안'
   last_name: '김'
-  cv: '//kaptn.ru'
   github_username:  chloesian  
-  email: vika@kaptn.ru
   logo: '/images/logo.svg'
 
 # Build settings
